@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{DD8BB905-17D1-AAA6-C8A2-213488C298D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Store/Demos/DemoCtrls.cs">
+    <Files>
+      <File FileName="Assets/Store/Demos/DemoCtrls.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Main" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Envxzys" expanded="True">
+                <Node name="00_Scripts" expanded="True">
+                  <Node name="00_System" expanded="True" />
+                  <Node name="01_Environment" expanded="True" />
+                  <Node name="02_Interaction" expanded="True" />
+                </Node>
+                <Node name="01_Content" expanded="True" />
+              </Node>
+              <Node name="Moduli" expanded="True" />
+              <Node name="Store" expanded="True">
+                <Node name="Demos" expanded="True">
+                  <Node name="DemoCtrls.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ec6a9aa-aca1-4f58-903a-a38ca3a17c04" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
