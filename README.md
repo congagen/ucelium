@@ -1,6 +1,6 @@
 # UCELIUM (ENVXZYS + MODULI)
 
-UCELIUM is a collection of boilerplate scripts and assets intended for procedural Unity3D projects
+UCELIUM is a collection of procgen and boilerplate assets intended for Unity3D
 
 #### Demos:
 - ENVXZYS A: http://abstra-demos.s3.amazonaws.com/envxzys/index.html
