@@ -1,0 +1,16 @@
+{
+"companyName": "-",
+"productName": "-",
+"productVersion": "1",
+"dataUrl": "Balls.data.unityweb",
+"wasmCodeUrl": "Balls.wasm.code.unityweb",
+"wasmFrameworkUrl": "Balls.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
