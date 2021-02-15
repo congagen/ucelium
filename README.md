@@ -27,8 +27,3 @@ UCELIUM is a collection of procgen and boilerplate assets intended for Unity3D
     3. Select the misc object in the hierarchy panel  
     4. Specify new "Target Objects" and corresponding "Mod Objects" in the inspector panel (Optional)
     5. Enter play mode to test settings
-
-
-\
-\
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P53MNN0)
